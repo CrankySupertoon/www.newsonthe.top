@@ -1,4 +1,4 @@
-baseURL = "https://www.newsonthe.top/"
+baseURL = "http://www.newsonthe.top/"
 languageCode = "en-us"
 title = "NewsOnTheTop"
 theme = "newsroom"
