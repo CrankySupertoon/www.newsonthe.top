@@ -1,0 +1,7 @@
+baseURL = "https://www.newsonthe.top/"
+languageCode = "en-us"
+title = "NewsOnTheTop"
+theme = "newsroom"
+author = "Generic Author"
+copyright = "Copyright © 2019 NewsOnTheTop. All rights reserved."
+publishDir = "/usr/local/www/www.newsonthe.top"
