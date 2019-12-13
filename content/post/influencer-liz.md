@@ -1,7 +1,7 @@
 ---
 author: Random Author
 date: 2019-12-13
-title: "Underground Pop Singer Confirms: Influencders Do Nothing Useful"
+title: "Underground Pop Singer Confirms: Influencers Do Nothing Useful"
 image: LIZ-IG.jpg
 ---
 
