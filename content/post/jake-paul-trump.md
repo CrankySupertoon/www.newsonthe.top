@@ -15,7 +15,7 @@ economic superpower" and that "Trump is the greatest president to live".
 Paul says if declared 'socialists' win the presidency, "they will ruin what
 made America great in the first place".
 
-Both Paul and Trump have been controversal figures, often turning to
+Both Paul and Trump are controversal figures, often turning to
 sensationalization for attention, publically being racist, and putting down
 their rivals.
 
