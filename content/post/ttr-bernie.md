@@ -5,7 +5,7 @@ title: "Toontown Rewritten Team endorses Bernie Sanders for 2020"
 image: toontown_lg.jpg
 ---
 
-It's official: The Toontwon Rewritten team has endorsed Bernie Sanders for the
+It's official: The Toontown Rewritten team has endorsed Bernie Sanders for the
 2020 Democratic primary.
 
 In an [exclusive interview](https://www.youtube.com/watch?v=YgGzAKP_HuM),
